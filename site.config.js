@@ -23,6 +23,11 @@ const CONFIG = {
       iconName: "AiFillCloud", // Icon name as string
       href: "https://share.chis.dev",
     },
+    {
+      name: 'SteamRoulette',
+      iconName: "FaSteam", // Icon name as string
+      href: "https://steam.chis.dev",
+    },
     // {
     //   name: 'Discord Bot',
     //   iconName: "AiFillRobot", // Icon name as string

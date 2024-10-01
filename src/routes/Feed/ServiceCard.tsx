@@ -1,6 +1,7 @@
 import { CONFIG } from "site.config"
 import React from "react"
 import { AiFillCloud, AiFillCodeSandboxCircle,AiFillRobot } from "react-icons/ai"
+import { FaSteam } from "react-icons/fa";
 import { CgCardClubs } from "react-icons/cg";
 import { SiNotion } from "react-icons/si";
 import styled from "@emotion/styled"
@@ -16,6 +17,7 @@ const ServiceCard: React.FC = () => {
     "AiFillRobot": AiFillRobot,
     "CgCardClubs": CgCardClubs,
     "SiNotion": SiNotion,
+    "FaSteam": FaSteam,
     // Add other icons as needed
   };
 
